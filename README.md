@@ -1,4 +1,4 @@
-# Project Description: College Complaint Tracking System
+#  College Complaint Tracking System
 
 ## 1. Introduction
 
