@@ -1,0 +1,52 @@
+
+===== DICTIONARY USING AVL TREE =====
+1. Insert a word
+2. Search for a word
+3. Display dictionary (Inorder)
+4. Count rotations
+5. Exit
+Enter your choice: 1
+Enter word: kartik
+Enter meaning: not
+Word inserted/updated successfully.
+Rotations in this insertion: 0
+
+===== DICTIONARY USING AVL TREE =====
+1. Insert a word
+2. Search for a word
+3. Display dictionary (Inorder)
+4. Count rotations
+5. Exit
+Enter your choice: 2
+Enter word to search: kartik
+Word: kartik
+Meaning: not
+
+===== DICTIONARY USING AVL TREE =====
+1. Insert a word
+2. Search for a word
+3. Display dictionary (Inorder)
+4. Count rotations
+5. Exit
+Enter your choice: 3
+
+Dictionary in alphabetical order:
+kartik : not
+
+===== DICTIONARY USING AVL TREE =====
+1. Insert a word
+2. Search for a word
+3. Display dictionary (Inorder)
+4. Count rotations
+5. Exit
+Enter your choice: 4
+Total rotations performed: 0
+
+===== DICTIONARY USING AVL TREE =====
+1. Insert a word
+2. Search for a word
+3. Display dictionary (Inorder)
+4. Count rotations
+5. Exit
+Enter your choice: 5
+Exiting dictionary application.
