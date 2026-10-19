@@ -1,0 +1,70 @@
+======================================== 
+COLLEGE COMPLAINT TRACKING SYSTEM 
+======================================== 
+1. Register Complaint 
+2. Display All Complaints 
+3. Search Complaint 
+4. Update Complaint 
+5. Resolve Complaint 
+6. Delete Complaint 
+7. Complaint Summary 
+8. Exit 
+======================================== 
+Enter your choice: 1 
+Enter Complaint ID: 123 
+Enter Student Name: kartik 
+Enter Department: entc 
+Enter Complaint Category: library silence 
+Enter Complaint Description: croud in library during study 
+Complaint registered successfully! 
+======================================== 
+COLLEGE COMPLAINT TRACKING SYSTEM 
+======================================== 
+1. Register Complaint 
+2. Display All Complaints 
+3. Search Complaint 
+4. Update Complaint 
+5. Resolve Complaint 
+6. Delete Complaint 
+7. Complaint Summary 
+8. Exit 
+======================================== 
+Enter your choice: 2 
+========== ALL COMPLAINTS ========== 
+Complaint ID    : 123 
+Student Name    : kartik 
+Department      : entc 
+Category        : library silence 
+Description     : croud in library during study 
+Status          : Pending ------------------------------------ 
+======================================== 
+COLLEGE COMPLAINT TRACKING SYSTEM 
+======================================== 
+1. Register Complaint 
+2. Display All Complaints 
+3. Search Complaint 
+4. Update Complaint 
+5. Resolve Complaint 
+6. Delete Complaint 
+7. Complaint Summary 
+8. Exit 
+======================================== 
+Enter your choice: 7 
+========== COMPLAINT SUMMARY ========== 
+Pending Complaints  : 1 
+Resolved Complaints : 0 
+Total Complaints    : 1 
+======================================== 
+COLLEGE COMPLAINT TRACKING SYSTEM 
+======================================== 
+1. Register Complaint 
+2. Display All Complaints 
+3. Search Complaint 
+4. Update Complaint 
+5. Resolve Complaint 
+6. Delete Complaint 
+7. Complaint Summary 
+8. Exit 
+======================================== 
+Enter your choice: 8 
+Thank you for using the system!
